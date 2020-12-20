@@ -1,7 +1,6 @@
 ---
 title: "Soul Sisters"
 deckId: "01"
-date: 2020-12-20T11:45:46-08:00
 commander: Darien, King of Kjeldor
 colors: w
 cards:

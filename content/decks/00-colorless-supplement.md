@@ -1,7 +1,6 @@
 ---
 title: "Colorless Supplement"
 deckId: "00"
-date: 2020-12-20T11:35:45-08:00
 colors: c
 cards:
     - Sol Ring

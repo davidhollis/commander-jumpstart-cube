@@ -1,7 +1,6 @@
 ---
 title: "{{ replace (replaceRE "^[0-9]+-" "" .Name) "-" " " | title }}"
 deckId: "{{ index (split .Name "-") 0 }}"
-date: {{ .Date }}
 commander: The Prismatic Piper
 colors: wubrg
 cards:

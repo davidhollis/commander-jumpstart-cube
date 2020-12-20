@@ -1,6 +1,5 @@
 ---
 title: "SconeforgeMystic's Commander Cube"
-date: 2020-12-20T11:52:38-08:00
 draft: false
 ---
 
