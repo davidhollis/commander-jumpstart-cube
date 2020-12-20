@@ -1,3 +1,16 @@
-baseURL = "http://example.org/"
+baseURL = "https://commander.sconeforgemystic.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "SconeforgeMystic's Commander Cube"
+theme = "contrast-hugo"
+enableEmoji = true
+
+[params]
+minimal = false
+description = "A Magic: the Gathering Commander cube in the style of JumpStart"
+
+[menu]
+[[menu.main]]
+identifier = "decks"
+name = "Decks"
+url = "/decks"
+weight = 10
