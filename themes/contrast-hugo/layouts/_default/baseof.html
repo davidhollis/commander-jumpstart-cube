@@ -8,22 +8,24 @@
 {{- end }}
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/{{ if .Site.Params.minimal }}minimal.css{{else}}index.css{{ end }}">
+<link href="//cdn.jsdelivr.net/npm/mana-font@latest/css/mana.css" rel="stylesheet" type="text/css" />
 <link rel="canonical" href="{{ .Permalink }}">
-<link rel="alternate" type="application/rss+xml" href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" title="{{ .Site.Title }}">
+<link rel="alternate" type="application/rss+xml" href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}"
+  title="{{ .Site.Title }}">
 {{- if or .Params.math .Site.Params.math }}
 {{ partial "math.html" . }}
 {{- end }}
 
 <header>
   {{ if not (gt (len .Site.Menus) 1) }}
-    <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+  <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
   {{ end }}
   {{ range $menu, $items := .Site.Menus }}
-    <nav>
+  <nav>
     {{ range $items }}
-      <a href="{{ .URL }}">{{ .Name }}</a>
+    <a href="{{ .URL }}">{{ .Name }}</a>
     {{ end }}
-    </nav>
+  </nav>
   {{ end }}
 </header>
 

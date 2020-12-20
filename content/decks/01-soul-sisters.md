@@ -14,4 +14,4 @@ status: in-progress
 draft: true
 ---
 
-A deck exploiting the interaction of [[Soul Warden]] effects with [[Darien, King of Kjeldor]].
+A deck exploiting the interaction of {{< card Soul Warden >}} effects with {{< card "Darien, King of Kjeldor" >}}.
