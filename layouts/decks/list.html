@@ -10,7 +10,7 @@
         <tbody>
             {{- range sort $Pages "Params.deckId" "asc" }}
             <tr>
-                <td class="deck-id">{{ .Params.deckId }}</td>
+                <td class="deck-id">#{{ .Params.deckId }}</td>
                 <td class="deck-colors">{{ partial "mana-symbol" .Params.colors }}</td>
                 <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
                 <td>
