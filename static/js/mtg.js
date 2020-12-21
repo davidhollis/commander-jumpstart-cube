@@ -72,7 +72,7 @@
       var self = $(this);
 
       return parseDecklist(
-        self.attr('title') || 'Untitled Deck',
+        self.attr('title'),
         self.text().split("\n")
       );
     });
@@ -117,7 +117,9 @@
       }
     }
 
-    decklist.append($('<header>').append(heading));
+    if (title) {
+      decklist.append($('<header>').append(heading));
+    }
     decklist.append(
       '<div class="mtg-card-preview">' +
       '<img src="' + CARD_BACK_IMAGE + '">' +

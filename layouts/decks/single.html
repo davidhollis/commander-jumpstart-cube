@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<article>
+    <header>
+        <h1>{{ partial "mana-symbol" .Params.colors }} {{ .Title }}</h1>
+    </header>
+    {{ .Content }}
+
+    <blockquote class="deck-container">
+        <pre class="decklist">
+{{- with .Params.commander -}}
+# Commander
+{{.}}
+
+{{ end -}}
+# Deck Contents
+{{ range .Params.cards -}}
+{{.}}
+{{ end -}}
+       </pre>
+    </blockquote>
+</article>
+
+{{ end }}

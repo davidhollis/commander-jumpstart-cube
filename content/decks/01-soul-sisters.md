@@ -10,6 +10,7 @@ cards:
     - Ajani's Pridemate
     - Martyr of Sands
     - Ranger of Eos
+    - 5 Plains
 status: in-progress
 draft: true
 ---

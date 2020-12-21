@@ -10,3 +10,41 @@
     text-decoration-line: underline;
     text-decoration-style: dotted;
 }
+
+.deck-container {
+    margin-top: 3em;
+}
+
+.mtg-decklist {
+    position: relative;
+    min-height: 307px;
+}
+
+.mtg-decklist .mtg-card-preview {
+    position: absolute;
+    right: 0em;
+}
+
+.mtg-decklist .mtg-card-preview img {
+    margin: 0;
+    width: 220px;
+}
+
+.mtg-decklist .mtg-decklist-contents h2 {
+    font-size: 1em;
+    margin-bottom: 0.25em;
+}
+
+.mtg-decklist .mtg-decklist-contents ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0 0 1em 0;
+}
+
+.mtg-decklist .mtg-decklist-contents li {
+    margin: 0;
+}
+
+.mtg-decklist .mtg-card-quantity {
+    font-weight: bold;
+}
