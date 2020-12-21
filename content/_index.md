@@ -12,7 +12,7 @@ This is the landing page for my cube project: a commander cube in the style of [
 
 Each player randomly selects 4 different [half-decks](/decks), then chooses 2 from that set of four to use for their full deck. Both of the half-deck commanders become partner commanders of the full deck[^1], then that player shuffles adds one [colorless supplement][c-supplement] and shuffles all of their non-commander cards together.
 
-> **For example:** let's say you randomly pull {{< card "Neheb, the Eternal" >}}; {{< card "Verazol, the Split Current" >}}; {{< card "Eligeth, Crossroads Augur" >}}; and {{< card "Gwafa Hazid, Profiteer" >}}. You decide that Neheb's mana production would go nicely with Verazol's {{< mana x g u >}} cost. Your deck will be a Temur deck with Neheb and Verazol as partner commanders, and the 98 cards in your starting library will come from Neheb's half-deck, Verazol's half-deck, and the [colorless supplement][c-supplement].
+> **For example:** let's say you randomly pull {{< card "Neheb, the Eternal" >}}; {{< card "Verazol, the Split Current" >}}; {{< card "Eligeth, Crossroads Augur" >}}; and {{< card "Gwafa Hazid, Profiteer" >}}. You decide that Neheb's mana production would go nicely with a commander like Verazol with its cost of {{< mana x g u >}}. Your deck will be a Temur deck with Neheb and Verazol as partner commanders, and the 98 cards in your starting library will come from Neheb's half-deck, Verazol's half-deck, and the [colorless supplement][c-supplement].
 
 Players then play a normal game of commander (life totals starting at 40, etc.).
 
