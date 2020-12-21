@@ -9,7 +9,7 @@ cards:
     - Command Tower
     - Path of Ancestry
 status: wip
-draft: true
+draft: false
 ---
 
 The colorless supplement is a special deck: it has no commander, and instead of being randomly selected, each player gets one identical copy of it to add to their deck.

@@ -12,7 +12,7 @@ cards:
     - Ranger of Eos
     - 5 Plains
 status: idea
-draft: true
+draft: false
 ---
 
 A deck exploiting the interaction of {{< card Soul Warden >}} effects with {{< card "Darien, King of Kjeldor" >}}.
