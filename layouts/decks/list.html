@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+{{ $Pages := .Pages }}
+
+<article>
+    <header>
+        <h1>{{ .Title | default "Pages" | humanize }}</h1>
+    </header>
+    <table class="deck-listing">
+        <tbody>
+            {{- range sort $Pages "Params.deckId" "asc" }}
+            <tr>
+                <td class="deck-id">{{ .Params.deckId }}</td>
+                <td class="deck-colors">{{ partial "mana-symbol" .Params.colors }}</td>
+                <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+                <td>
+                    {{ with .Params.commander }}
+                    <span class="card">{{ . }}</span>
+                    {{ end }}
+                </td>
+                <td class="deck-status"><span
+                        class="status-label status-{{ .Params.status }}">{{ replace .Params.status "-" " " }}</span>
+                </td>
+            </tr>
+            {{- end }}
+        </tbody>
+    </table>
+    {{ .Content }}
+</article>
+
+{{ end }}

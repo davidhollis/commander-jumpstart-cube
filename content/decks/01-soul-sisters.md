@@ -11,7 +11,7 @@ cards:
     - Martyr of Sands
     - Ranger of Eos
     - 5 Plains
-status: in-progress
+status: idea
 draft: true
 ---
 

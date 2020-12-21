@@ -8,7 +8,7 @@ cards:
     - Darksteel Ingot
     - Command Tower
     - Path of Ancestry
-status: in-progress
+status: wip
 draft: true
 ---
 

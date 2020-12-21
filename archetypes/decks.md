@@ -5,7 +5,7 @@ commander: The Prismatic Piper
 colors: wubrg
 cards:
     - Black Lotus
-status: in-progress
+status: idea
 draft: true
 ---
 

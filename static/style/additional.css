@@ -48,3 +48,53 @@
 .mtg-decklist .mtg-card-quantity {
     font-weight: bold;
 }
+
+.deck-listing {
+    box-shadow: none;
+}
+
+.deck-listing tr, .deck-listing tr td {
+    background: none !important;
+    box-shadow: none;
+}
+
+.deck-listing tr td {
+    padding: 0.5em 0;
+}
+
+.deck-id {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 0.7em;
+}
+
+.deck-colors {
+    text-align: center;
+}
+
+.deck-status {
+    text-align: right;
+    font-size: 0.6em;
+    text-transform: uppercase;
+}
+
+.deck-status .status-label {
+    padding: 0.25em 1em;
+    border-radius: 10px;
+}
+
+.deck-status .status-idea {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.deck-status .status-wip {
+    background-color: rgba(58, 110, 252, 0.75);
+}
+
+.deck-status .status-done {
+    background-color: rgba(69, 175, 69, 0.75);
+}
+
+.no-break {
+    white-space: nowrap;
+}
