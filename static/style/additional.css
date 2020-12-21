@@ -1,0 +1,12 @@
+.mtg-card-tooltip img {
+    max-height: 20em;
+}
+
+.mana-cost {
+    white-space: nowrap;
+}
+
+.mtg-card-link, span.card {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
