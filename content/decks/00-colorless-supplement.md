@@ -6,6 +6,7 @@ cards:
     - Sol Ring
     - Arcane Signet
     - Darksteel Ingot
+    - Treasure Map
     - Command Tower
     - Path of Ancestry
 status: wip
