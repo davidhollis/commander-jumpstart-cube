@@ -3,12 +3,28 @@ title: "Colorless Supplement"
 deckId: "00"
 colors: c
 cards:
-    - Sol Ring
+    - "# Nonlands"
     - Arcane Signet
+    - Commander's Sphere
     - Darksteel Ingot
+    - Mind Stone
+    - Wayfarer's Bauble
     - Treasure Map
+    - Solemn Simulacrum
+    - Worn Powerstone
+    - Lightning Greaves
+    - Mazemind Tome
+    - "# Lands"
     - Command Tower
     - Path of Ancestry
+    - Prismatic Vista
+    - Fabled Passage
+    - Opal Palace
+    - Exotic Orchard
+    - Ash Barrens
+    - Myriad Landscape
+    - Command Beacon
+    - Mana Confluence
 status: wip
 draft: false
 ---
