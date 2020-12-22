@@ -222,7 +222,7 @@
     if ('cardName' in request) {
       storageKey = 'name.' + canonicalizeName(request.cardName);
       requestUrl =
-        'https://api.scryfall.com/cards/named?exact=' +
+        'https://api.scryfall.com/cards/named?fuzzy=' +
         encodeURIComponent(request.cardName);
     } else {
       storageKey = 'scryfall-id.' + request.scryfallId;
