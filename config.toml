@@ -10,7 +10,19 @@ description = "A Magic: the Gathering Commander cube in the style of JumpStart"
 
 [menu]
 [[menu.main]]
+identifier = "about"
+name = "About"
+url = "/"
+weight = 10
+
+[[menu.main]]
+identifier = "math"
+name = "Math"
+url = "/math"
+weight = 20
+
+[[menu.main]]
 identifier = "decks"
 name = "Decks"
 url = "/decks"
-weight = 10
+weight = 30
