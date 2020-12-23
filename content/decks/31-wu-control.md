@@ -1,10 +1,10 @@
 ---
 title: "WU Control"
 deckId: "31"
-commander: Gwafa Hazid, Profiteer
+commander: Kwain, Itinerant Meddler
 colors: wu
 cards:
-    - Black Lotus
+    - Gwafa Hazid, Profiteer
 status: idea
 draft: false
 ---
