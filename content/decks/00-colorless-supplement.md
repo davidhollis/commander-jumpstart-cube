@@ -25,7 +25,7 @@ cards:
     - Myriad Landscape
     - Command Beacon
     - Mana Confluence
-status: wip
+status: done
 draft: false
 ---
 
