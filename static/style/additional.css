@@ -25,6 +25,12 @@
     right: 0em;
 }
 
+@media (max-width: 440px) {
+    .mtg-decklist .mtg-card-preview {
+        display: none;
+    }
+}
+
 .mtg-decklist .mtg-card-preview img {
     margin: 0;
     width: 220px;
