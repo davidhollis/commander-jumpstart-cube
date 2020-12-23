@@ -58,7 +58,7 @@ So how did I arrive at the original numbers? Well, I followed the extremely scie
 
 ## Lands
 
-As a baseline, I'd like very final deck to have 38 lands. Since the primary purpose of [the colorless supplement][c-supplement] is to provide baseline color fixing and utility artifacts that almost every commander deck would want, I found a set of 10 lands that it could contain. That leaves 28 between the two half-decks. So each half-deck will ultimately contain 14±1 lands (13 lands for half-decks with very low curves, 15 lands for half-decks with very high curves).
+As a baseline, I'd like every final deck to have about 38 lands. Since the primary purpose of [the colorless supplement][c-supplement] is to provide universal color fixing and utility artifacts, I found a set of 10 lands for it that I felt almost any deck could benefit from. That leaves ~28 between the two half-decks, so each half-deck will ultimately contain 14±1 lands (13 lands for half-decks with very low curves, 15 lands for half-decks with very high curves).
 
 [c-supplement]: /decks/00-colorless-supplement
 

@@ -12,7 +12,7 @@ This is the landing page for my cube project: a commander cube in the style of [
 
 ### "Sealed"
 
-Each player randomly selects 4 different [half-decks](/decks), then chooses 2 from that set of four to use for their full deck. Both of the half-deck commanders become partner commanders of the full deck[^1], then that player grabs one [colorless supplement][c-supplement] and shuffles all of their non-commander cards together.
+Each player randomly selects 4 different [half-decks](/decks), then chooses 2 from that set of four to build their deck: both of the selected half-deck commanders become partner commanders of their full deck[^1], then that player grabs one [colorless supplement][c-supplement] and shuffles all of their non-commander cards together.
 
 > **For example:** let's say you randomly pull [Neheb, the Eternal][neheb]; [Verazol, the Split Current][verazol]; [Eligeth, Crossroads Augur][eligeth]; and [Kwain, Itinerant Meddler][kwain]. You decide that Neheb's mana production would go nicely with a commander like Verazol with its cost of {{< mana x g u >}}. Your deck will be a Temur deck with Neheb and Verazol as partner commanders, and the 98 cards in your starting library will come from Neheb's half-deck, Verazol's half-deck, and the [colorless supplement][c-supplement].
 
@@ -37,7 +37,9 @@ Order the players randomly. The first player chooses one half-deck from among th
 >   6. Then, Ben picks their second half-deck.
 >   7. Finally, Abby picks their second half-deck.
 
-Each player builds their deck: both of their half-deck commanders become partner commanders of their full deck[^1], then they grab one [colorless supplement][c-supplement] and shuffle all of their non-commander cards together.
+Each player then builds their deck: both of their half-deck commanders become partner commanders of their full deck[^1], then they grab one [colorless supplement][c-supplement] and shuffle all of their non-commander cards together.
+
+Players then play a normal game of commander (life totals starting at 40, etc.).
 
 ## Composition
 
