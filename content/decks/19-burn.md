@@ -7,6 +7,7 @@ cards:
     - Lightning Bolt
     - Earthquake
     - Comet Storm
+    - Torbran, Thane of Red Fell
 status: idea
 draft: false
 ---
