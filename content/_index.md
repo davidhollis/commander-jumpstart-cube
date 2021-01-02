@@ -52,9 +52,22 @@ The cube is still a work in progress, but in its eventual state it will have:
 
 For details on how I came to those numbers, [check out the math](/math).
 
+## Deck Philosophy
+
+While I don't expect to be able to produce 50 perfectly balanced decks—some will naturally be more or less powerful than others—I'd like them to end up in the same general band. To that end, I'm going to be avoiding:
+
+  - putting very general tutors in any of the decks (perferring very narrow tutors, if any)
+  - putting any 2- or 3-card infinite combos in a single deck (pairs of decks may contain combos when shuffled together)
+  - including any must-answer value engines (i.e., no {{< card Sylvan Library >}} or {{< card Rhystic Study >}})
+  - including any turn-one fast mana (i.e., no {{< card Sol Ring >}}, {{< card Mana Crypt >}}, {{< card Lotus Petal >}}, etc.)
+
+In general, the guiding principle is that **the most powerful cards should be synergistic with the themes of the decks they belong to**. They're allowed to be independently powerful as well, but they should be at their best when surrounded by the rest of their deck.
+
+Decks should be somewhat focused, but shouldn't be nonfunctional without specific non-commander cards. After all, they'll be shuffled together with another deck, and I want to avoid (as much as possible) the situation where drawing an equal mix from both parts leaves a player doing nothing. To help allow a baseline level of interaction, each half-deck will contain a few pieces of targeted removal, a few sweepers, and some card draw; these cards may key off the deck's theme, but they'll do _something_ outside of it as well (for example, {{< card Reverse Engineer >}} is much better with artifacts, but will still draw cards without any).
+
 ## Following the cube's development
 
-I'll be developing the cube live on Twitch at http://twitch.tv/sconeforgemystic. I'm still working out what the schedule will be, but you can follow me on Twitter ([@SconeforgeMystic](https://twitter.com/sconeforgemystic)) for go-live notifications.
+I'll be developing the cube live on Twitch at http://twitch.tv/sconeforgemystic, every Wednesday at 6:00pm Pacific time. For go-live notifications, you can follow me on Twitter ([@SconeforgeMystic](https://twitter.com/sconeforgemystic)). If you know me in person and want to join in the discussion as the decks are built, reach out to me and I'll invite you to the Discord server.
 
 [c-supplement]: /decks/00-colorless-supplement
 [^1]: even if they don't have partner, or if they have "partner with" another commander
