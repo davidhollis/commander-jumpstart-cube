@@ -52,7 +52,7 @@ The cube is still a work in progress, but in its eventual state it will have:
 
 For details on how I came to those numbers, [check out the math](/math).
 
-## Deck Philosophy
+## Deck Building
 
 While I don't expect to be able to produce 50 perfectly balanced decks—some will naturally be more or less powerful than others—I'd like them to end up in the same general band. To that end, I'm going to be avoiding:
 
@@ -63,7 +63,22 @@ While I don't expect to be able to produce 50 perfectly balanced decks—some wi
 
 In general, the guiding principle is that **the most powerful cards should be synergistic with the themes of the decks they belong to**. They're allowed to be independently powerful as well, but they should be at their best when surrounded by the rest of their deck.
 
-Decks should be somewhat focused, but shouldn't be nonfunctional without specific non-commander cards. After all, they'll be shuffled together with another deck, and I want to avoid (as much as possible) the situation where drawing an equal mix from both parts leaves a player doing nothing. To help allow a baseline level of interaction, each half-deck will contain a few pieces of targeted removal, a few sweepers, and some card draw; these cards may key off the deck's theme, but they'll do _something_ outside of it as well (for example, {{< card Reverse Engineer >}} is much better with artifacts, but will still draw cards without any).
+Decks should be somewhat focused, but shouldn't be nonfunctional without specific non-commander cards. After all, they'll be shuffled together with another deck, and I want to avoid (as much as possible) the situation where drawing an equal mix from both parts leaves a player doing nothing.
+
+To help allow a baseline level of interaction, each half-deck will use the following template as a starting point. Exact quantities can vary slightly if there's a good reason (for example, decks with very low curves might run one fewer land, or decks with higher curves one more; or in some cases categories may overlap with one another; etc.).
+
+{{< comp-chart >}}
+
+  - 1 commander ( {{< set cmd >}} )
+  - 14 lands ( {{< symbol land >}} )
+  - 27 nonland cards ( {{< symbol multiple >}} ), consisting of:
+      - about 2 sweepers ( {{< set v14 >}} ) [^2]
+      - about 3 targeted removal spells ( {{< symbol power >}} ) [^2]
+      - about 2 ramp spells ( {{< symbol "ability-landfall" >}} ) [^3]
+      - about 5 card draw spells ( {{< symbol "counter-lore" >}} ) [^4]
+      - a collection of other cards ( {{< symbol "ability-transform" >}} ) that synergize with or otherwise support the theme of the deck
+
+Even though some cards may be in multiple decks, not every deck will have the same suite of removal, ramp, etc. (e.g., not every white deck will have {{< card Path to Exile >}} or {{< card Land Tax >}}). Cards in more specific categories may key off the deck's theme, but they'll do _something_ on their own (taking card draw as an example, {{< card Reverse Engineer >}} is much better with artifacts, but will still draw cards without any).
 
 ## Following the cube's development
 
@@ -71,3 +86,6 @@ I'll be developing the cube live on Twitch at http://twitch.tv/sconeforgemystic,
 
 [c-supplement]: /decks/00-colorless-supplement
 [^1]: even if they don't have partner, or if they have "partner with" another commander
+[^2]: which can at least kill creatures
+[^3]: which must permanently accelerate mana production
+[^4]: which must produce card advantage (at least 1 card worth) for its controller, and must be able to dig through the library

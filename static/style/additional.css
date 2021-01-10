@@ -104,3 +104,79 @@
 .no-break {
     white-space: nowrap;
 }
+
+.deck-comp-chart .deck-comp-row {
+    display: flex;
+}
+
+.deck-comp-chart .deck-comp-row .deck-comp-element {
+    overflow-x: hidden;
+    white-space: nowrap;
+    text-align: center;
+    color: white;
+    padding: 0.25em 0;
+}
+
+.deck-comp-chart .deck-comp-row .width-1-42 {
+    width: 2.38%;
+}
+
+.deck-comp-chart .deck-comp-row .width-2-42 {
+    width: 4.76%;
+}
+
+.deck-comp-chart .deck-comp-row .width-3-42 {
+    width: 7.14%;
+}
+
+.deck-comp-chart .deck-comp-row .width-5-42 {
+    width: 11.90%;
+}
+
+.deck-comp-chart .deck-comp-row .width-14-42 {
+    width: 33.33%;
+}
+
+.deck-comp-chart .deck-comp-row .width-15-42 {
+    width: 35.71%;
+}
+
+.deck-comp-chart .deck-comp-row .width-27-42 {
+    width: 64.28%;
+}
+
+.deck-comp-chart .deck-comp-row .width-42-42 {
+    width: 100%;
+}
+
+.deck-comp-chart .deck-comp-row .bg-dk-gray {
+    background-color: rgb(96, 96, 96);
+}
+
+.deck-comp-chart .deck-comp-row .bg-gold {
+    background-color: rgb(187, 121, 0);
+}
+
+.deck-comp-chart .deck-comp-row .bg-lt-gray {
+    background-color: rgb(128, 128, 128);
+}
+
+.deck-comp-chart .deck-comp-row .bg-brown {
+    background-color: rgb(150, 80, 0);
+}
+
+.deck-comp-chart .deck-comp-row .bg-purple {
+    background-color: rgb(136, 56, 228);
+}
+
+.deck-comp-chart .deck-comp-row .bg-red {
+    background-color: rgb(194, 49, 49);
+}
+
+.deck-comp-chart .deck-comp-row .bg-green {
+    background-color: rgb(56, 163, 56);
+}
+
+.deck-comp-chart .deck-comp-row .bg-blue {
+    background-color: rgb(47, 60, 180);
+}
