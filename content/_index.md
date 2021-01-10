@@ -82,7 +82,7 @@ Even though some cards may be in multiple decks, not every deck will have the sa
 
 ## Following the cube's development
 
-I'll be developing the cube live on Twitch at http://twitch.tv/sconeforgemystic, every Wednesday at 6:00pm Pacific time. For go-live notifications, you can follow me on Twitter ([@SconeforgeMystic](https://twitter.com/sconeforgemystic)). If you know me in person and want to join in the discussion as the decks are built, reach out to me and I'll invite you to the Discord server.
+I'll be developing the cube live on Twitch at http://twitch.tv/sconeforgemystic, every Thursday at 7:00pm Pacific time. For go-live notifications, you can follow me on Twitter ([@SconeforgeMystic](https://twitter.com/sconeforgemystic)). If you know me in person and want to join in the discussion as the decks are built, reach out to me and I'll invite you to the Discord server.
 
 [c-supplement]: /decks/00-colorless-supplement
 [^1]: even if they don't have partner, or if they have "partner with" another commander
