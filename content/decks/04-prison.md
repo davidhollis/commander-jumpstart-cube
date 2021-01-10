@@ -11,7 +11,7 @@ cards:
     - Keeper of the Accord
     - Caged Sun
     - "Circle of Protection: White"
-status: idea
+status: up-next
 draft: false
 ---
 

@@ -9,7 +9,7 @@ cards:
     - Ichor Wellspring
     - Skyclave Apparition
     - Ashnod's Altar
-status: idea
+status: up-next
 draft: false
 ---
 
