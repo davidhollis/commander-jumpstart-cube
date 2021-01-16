@@ -7,7 +7,7 @@ cards:
     - Gisela, the Broken Blade
     - Lyra Dawnbringer
     - Sephara, Sky's Blade
-status: idea
+status: up-next
 draft: false
 ---
 

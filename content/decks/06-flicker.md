@@ -14,7 +14,7 @@ cards:
     - Springjack Shepherd
     - Wall of Omens
     - Blessed Sanctuary
-status: idea
+status: up-next
 draft: false
 ---
 
