@@ -28,7 +28,7 @@
     });
     $(window.document).tooltip({
       items: 'a.mtg-card-link',
-      position: { my: 'left top+15', at: 'left bottom', collision: 'none' },
+      position: { my: 'left top+15', at: 'left bottom', collision: 'flipfit' },
       content: function () {
         var self = $(this),
           imageUrl = self.data('tooltip-url'),
