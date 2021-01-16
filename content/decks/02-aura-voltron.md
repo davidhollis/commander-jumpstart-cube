@@ -36,8 +36,9 @@ cards:
     - "# Lands"
     - Desert of the True
     - Hall of Heliod's Generosity
-    - 10 Plains
+    - 9 Plains
     - Rogue's Passage
+    - Thriving Heath
 status: done
 draft: false
 ---
