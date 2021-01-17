@@ -19,6 +19,15 @@
 {{ end -}}
        </pre>
     </blockquote>
+    {{- with .Params.basics }}
+    <hr>
+    <h2>Basic Land Art</h2>
+    <p style="text-align: center">
+        {{ range . }}
+        <span class="card-display" data-scryfall-id="{{ . }}"></span>
+        {{ end }}
+    </p>
+    {{ end -}}
 </article>
 
 {{ end }}

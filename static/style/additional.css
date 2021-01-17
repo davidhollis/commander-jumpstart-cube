@@ -15,6 +15,10 @@
     margin-top: 3em;
 }
 
+.mtg-card-display img {
+    max-width: 30%;
+}
+
 .mtg-decklist {
     position: relative;
     min-height: 307px;
