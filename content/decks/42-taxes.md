@@ -17,6 +17,8 @@ cards:
     - Court of Ambition
     - Athreos, God of Passage
 status: idea
+basics:
+    - 3d8d3cd4-0f5f-4424-82ee-d8ba81da47fd
 draft: false
 ---
 

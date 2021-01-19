@@ -6,6 +6,8 @@ colors: rw
 cards:
     - Sunforger
 status: idea
+basics:
+    - 93653b18-3821-485e-afeb-edafb0a9e84e
 draft: false
 ---
 

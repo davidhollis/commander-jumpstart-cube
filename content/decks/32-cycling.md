@@ -10,6 +10,8 @@ cards:
     - Shark Typhoon
     - Cloudblazer
 status: idea
+basics:
+    - d60f837e-736c-4a20-ab47-dbee4617ebcc
 draft: false
 ---
 

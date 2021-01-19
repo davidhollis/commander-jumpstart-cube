@@ -40,6 +40,8 @@ cards:
     - Rogue's Passage
     - Thriving Heath
 status: done
+basics:
+    - 999d82f8-6c64-4b6a-a8ac-fbc48dd1750c
 draft: false
 ---
 

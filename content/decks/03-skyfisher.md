@@ -43,6 +43,8 @@ cards:
     - Thriving Heath
     - Vivid Meadow
 status: done
+basics:
+    - 2443d32d-0576-4666-8da8-241de446b7db
 draft: false
 ---
 

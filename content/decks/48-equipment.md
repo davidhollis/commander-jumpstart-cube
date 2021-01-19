@@ -10,6 +10,8 @@ cards:
     - Trailblazer's Boots
     - Sigarda's Aid
 status: idea
+basics:
+    - 440680d3-1eea-442a-b58e-96db09bc279e
 draft: false
 ---
 

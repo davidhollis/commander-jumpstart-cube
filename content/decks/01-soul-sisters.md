@@ -42,6 +42,8 @@ cards:
     - War Room
     - Windbrisk Heights
 status: done
+basics:
+    - 5b5f9eef-925c-479e-a9a5-ce61fc06f3be
 draft: false
 ---
 

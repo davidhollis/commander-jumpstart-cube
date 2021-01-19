@@ -38,6 +38,8 @@ cards:
     - 11 Plains
     - Thriving Heath
 status: done
+basics:
+    - 4add62bc-d24c-4a1f-81bc-e3a6befe3f0d
 draft: false
 ---
 

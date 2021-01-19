@@ -7,6 +7,8 @@ cards:
     - Gwafa Hazid, Profiteer
     - Approach of the Second Sun
 status: idea
+basics:
+    - c7191d23-b68f-406b-8c28-8dadbaef6562
 draft: false
 ---
 
