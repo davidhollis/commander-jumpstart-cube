@@ -4,6 +4,12 @@
     <header>
         <h1>{{ partial "mana-symbol" .Params.colors }} {{ .Title }}</h1>
     </header>
+    {{ with .Params.status }}
+    <p class="single-status">
+        <strong>Status:</strong>
+        <span class="status-label status-{{.}}">{{ replace . "-" " " }}</span>
+    </p>
+    {{ end }}
     {{ .Content }}
 
     <blockquote class="deck-container">

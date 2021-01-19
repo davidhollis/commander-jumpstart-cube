@@ -85,23 +85,30 @@
 .deck-status {
     text-align: right;
     font-size: 0.6em;
-    text-transform: uppercase;
 }
 
-.deck-status .status-label {
+.status-label {
+    text-transform: uppercase;
     padding: 0.25em 1em;
     border-radius: 10px;
 }
 
-.deck-status .status-idea {
+.single-status .status-label {
+    margin-left: 0em;
+    font-size: 0.6em;
+    position: relative;
+    top: -0.25em;
+}
+
+.status-idea {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-.deck-status .status-up-next {
+.status-up-next {
     background-color: rgba(58, 110, 252, 0.75);
 }
 
-.deck-status .status-done {
+.status-done {
     background-color: rgba(69, 175, 69, 0.75);
 }
 
