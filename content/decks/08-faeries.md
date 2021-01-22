@@ -8,7 +8,7 @@ cards:
     - Brazeon Borrower
     - Spellstutter Sprite
     - Pestermite
-status: idea
+status: up-next
 draft: false
 ---
 

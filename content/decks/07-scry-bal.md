@@ -10,7 +10,7 @@ cards:
     - Conundrum Sphinx
     - Prognostic Sphinx
     - Alhammarret's Archive
-status: idea
+status: up-next
 draft: false
 ---
 
