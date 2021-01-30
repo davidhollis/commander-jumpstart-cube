@@ -19,7 +19,7 @@ cards:
     - Astral Cornucopia
     - Walking Ballista
     - Blast Zone
-status: idea
+status: up-next
 draft: false
 ---
 

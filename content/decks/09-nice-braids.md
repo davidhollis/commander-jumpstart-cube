@@ -5,7 +5,7 @@ commander: Braids, Conjurer Adept
 colors: u
 cards:
     - Dream Halls
-status: idea
+status: up-next
 draft: false
 ---
 
