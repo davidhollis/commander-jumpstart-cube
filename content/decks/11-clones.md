@@ -15,7 +15,7 @@ cards:
     - Supplant Form
     - Bribery
     - Glasspool Mimic
-status: idea
+status: up-next
 draft: false
 ---
 

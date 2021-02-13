@@ -9,7 +9,7 @@ cards:
     - Stinkweed Imp
     - Satyr Wayfinder
     - Worm Harvest
-status: idea
+status: up-next
 draft: false
 ---
 
